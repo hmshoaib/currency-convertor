@@ -1,0 +1,9 @@
+# Instruction
+
+## Steps
+    - For question 1 open question1.html in browser.
+    - For question 2 
+        - You must install apache, mysql & PHP (8.0)
+        - Run sql script to create database and respective table from database folder
+        - place all the files in the root and open index.php
+
